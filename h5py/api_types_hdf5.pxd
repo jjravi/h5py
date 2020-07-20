@@ -180,6 +180,7 @@ cdef extern from "hdf5.h":
   # Thankfully they are defined but -1 if unavailable
   hid_t H5FD_CORE
   hid_t H5FD_FAMILY
+  hid_t H5FD_GDS
   hid_t H5FD_LOG
   hid_t H5FD_MPIO
   hid_t H5FD_MULTI

@@ -57,6 +57,9 @@ of supported drivers and their options:
     'sec2'
         Unbuffered, optimized I/O using standard POSIX functions.
 
+    'gds'
+        GPUDirect Storage I/O using standard POSIX-like functions.
+
     'stdio'
         Buffered I/O using functions from stdio.h.
 

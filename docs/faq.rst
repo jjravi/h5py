@@ -73,6 +73,7 @@ currently supported drivers are:
 Driver                              Purpose                                     Notes
 =================================== =========================================== ============================
 sec2                                Standard optimized driver                   Default on UNIX/Windows
+gds                                 GPUDirect Storage driver
 stdio                               Buffered I/O using stdio.h
 core                                In-memory file (optionally backed to disk)
 family                              Multi-file driver
